@@ -1,6 +1,10 @@
 {
   "string": [
     {
+      "name": "permissionReasonInternet",
+      "value": "进行网络访问"
+    },
+    {
       "name": "module_desc",
       "value": "module description"
     },
@@ -19,6 +23,34 @@
     {
       "name": "pleaseInputPhoneNum",
       "value": "请输入手机号"
+    },
+    {
+      "name": "iHaveReadAndAgree",
+      "value": "我已阅读并同意"
+    },
+    {
+      "name": "servicePolicy",
+      "value": "《服务使用条款》"
+    },
+    {
+      "name": "and",
+      "value": "和"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "《隐私政策》"
+    },
+    {
+      "name": "nextStep",
+      "value": "下一步"
+    },
+    {
+      "name": "registerNewAccount",
+      "value": "注册新账号 >"
+    },
+    {
+      "name": "pleaseReadAndAgreePolicy",
+      "value": "请阅读并同意相关服务协议"
     }
   ]
 }
